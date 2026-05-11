@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Full-stack dev — Next.js, NestJS, TypeScript, PostgreSQL <br>🔭 Currently deepening into DevOps — Linux, AWS, Docker, Kubernetes<br>💬 Ask me anything<br>⚡ Fun fact: Made it this far with a structured 
+🌱 Full-stack dev — Next.js, NestJS, TypeScript, PostgreSQL <br>🔭 Currently deepening into DevOps — Linux, AWS, Docker, Kubernetes<br>⚡ Fun fact: Made it this far with a structured 
 roadmap, raw consistency, and some late night crackers
 
 ## 🌐 Socials:
