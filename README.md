@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 currently working on karta backend<br>🌱 I’m currently deepening into Devops <br>💬 Ask me anything<br>⚡ Fun fact
+🚀 Currently deepening into DevOps — Linux, AWS, Docker, Kubernetes
+🌱 Full-stack dev — Next.js, NestJS, TypeScript, PostgreSQL
+⚡ Fun fact: I built an Amazon clone before learning how to deploy it properly
 
 
 ## 🌐 Socials:
