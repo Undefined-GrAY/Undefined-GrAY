@@ -1,8 +1,6 @@
 # 💫 About Me:
-🚀 Currently deepening into DevOps — Linux, AWS, Docker, Kubernetes
-🌱 Full-stack dev — Next.js, NestJS, TypeScript, PostgreSQL
-⚡ Fun fact: I built an Amazon clone before learning how to deploy it properly
-
+🌱 Full-stack dev — Next.js, NestJS, TypeScript, PostgreSQL <br>🔭 Currently deepening into DevOps — Linux, AWS, Docker, Kubernetes<br>💬 Ask me anything<br>⚡ Fun fact: Made it this far with a structured 
+roadmap, raw consistency, and some late night crackers
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:david@davidehibor.com) 
